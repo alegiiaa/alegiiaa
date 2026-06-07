@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6d28d9&height=180&section=header&text=Ilyas%20Alghamdi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Industrial%20Engineer%20%20·%20%20Full-Stack%20Developer%20%20·%20%20Hackathon%20Winner&descSize=15&descColor=e9d5ff&descAlignY=74" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6d28d9&height=180&section=header&text=Ilyas%20Mohammed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Industrial%20Engineer%20%20·%20%20Full-Stack%20Developer%20%20·%20%20Hackathon%20Winner&descSize=15&descColor=e9d5ff&descAlignY=74" width="100%"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilyas--alghamdi-8957E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-alghamdi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8957E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-alghamdi)
 [![Email](https://img.shields.io/badge/Email-ialghamdi0122%40stu.kau.edu.sa-A371F7?style=flat-square&logo=gmail&logoColor=white)](mailto:ialghamdi0122@stu.kau.edu.sa)
 [![Profile Views](https://komarev.com/ghpvc/?username=alegiiaa&style=flat-square&color=A371F7&label=Profile+Views)](https://github.com/alegiiaa)
 
@@ -21,7 +21,7 @@
 ### About
 
 ```yaml
-name    : Ilyas Alghamdi
+name    : Ilyas Mohammed
 role    : Industrial & Systems Engineer  ×  Full-Stack Developer
 now     : Co-Founder @ Shater · Technical Lead @ No Traffic · Freelance @ BuildFusion
 edu     : B.S. Industrial Engineering · King Abdulaziz University · GPA 4.49 / 5.00
