@@ -142,8 +142,8 @@ Fully-functional MVP built for the SADAIA × GASTAT Hackathon.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alegiiaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegiiaa&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats-omega-vert-16.vercel.app/api?username=alegiiaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats-omega-vert-16.vercel.app/api/top-langs/?username=alegiiaa&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9"/>
 
 <br/>
 
@@ -151,7 +151,7 @@ Fully-functional MVP built for the SADAIA × GASTAT Hackathon.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alegiiaa&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=alegiiaa&bg_color=0d1117&color=A371F7&line=A371F7&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity&title_color=A371F7"/>
 
 </div>
 
