@@ -180,6 +180,22 @@ Fully-functional MVP built for the SADAIA × GASTAT Hackathon.
 
 ---
 
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alegiiaa/alegiiaa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alegiiaa/alegiiaa/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alegiiaa/alegiiaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6d28d9,100:0d1117&height=80&section=footer" width="100%"/>
